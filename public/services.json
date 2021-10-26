@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "ENGINE DIAGNOSTIC",
+      "price": "100",
+      "img": "https://i.ibb.co/kJS3NsN/1.jpg",
+      "details":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium qui, tempora ducimus neque porro culpa."
+    },
+    {
+      "id": 2,
+      "name": "WHEEL ALIGNMENT",
+      "price": "200",
+      "img": "https://i.ibb.co/GMzf7dq/2.jpg",
+      "details":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium qui, tempora ducimus neque porro culpa."
+    },
+    {
+      "id": 3,
+      "name": "OIL CHANGING",
+      "price": "150",
+      "img": "https://i.ibb.co/ydhsydD/3.jpg",
+      "details":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium qui, tempora ducimus neque porro culpa."
+    },
+    {
+      "id": 4,
+      "name": "BRAKE REPARING",
+      "price": "170",
+      "img": "https://i.ibb.co/G3XLp0G/4.jpg",
+      "details":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium qui, tempora ducimus neque porro culpa."
+    },
+    {
+      "id": 5,
+      "name": "WASH AND GLASSING",
+      "price": "130",
+      "img": "https://i.ibb.co/Zc6nc95/5.jpg",
+      "details":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium qui, tempora ducimus neque porro culpa."
+    },
+    {
+      "id": 6,
+      "name": "COMPLETE ANALYSIS",
+      "price": "200",
+      "img": "https://i.ibb.co/vzhjFwD/6.jpg",
+      "details":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium qui, tempora ducimus neque porro culpa."
+    }
+  ]
